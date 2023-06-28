@@ -1,0 +1,25 @@
+/* align all content center */
+body {
+    text-align: center;
+    /* border: 2px solid black;
+    box-sizing: border-box; */
+    background-color: bisque;
+}
+
+
+div {
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(134, 90, 175);
+    
+}
+
+
+input {
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    
+
+}
